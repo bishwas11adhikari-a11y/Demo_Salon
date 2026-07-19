@@ -1,6 +1,6 @@
 # DEMO Beauty Salon
 
-A demo website showing an AI voice receptionist for a fictional beauty
+A portfolio demo showing an AI voice receptionist for a fictional beauty
 salon. Visitors can click "Call Now for Inquiry" and talk, in the browser,
 to Mia, an AI receptionist powered by [Retell AI](https://www.retellai.com).
 Mia's entire personality, hours, and FAQ knowledge come from a local SQLite
